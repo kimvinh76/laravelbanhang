@@ -17,7 +17,7 @@ use App\Http\Controllers\ProductController;
 */
 
 // Customer Routes
-Route::get('/home', [HomeController::class, 'about'])->name('home');
+Route::get('/homes', [HomeController::class, 'abouts'])->name('home'); 
 Route::get('/about', [HomeController::class, 'about'])->name('about');
 Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
 Route::post('/contact', [HomeController::class, 'sendContact'])->name('contact.send');
