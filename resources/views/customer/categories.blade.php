@@ -80,6 +80,7 @@
                 <h1 class="display-4 fw-bold mb-4">Danh mục sản phẩm</h1>
                 <p class="lead mb-4">
                     Khám phá các danh mục sản phẩm đa dạng với hàng nghìn lựa chọn
+                    file này lỗi
                 </p>
                 
                 <!-- Search Categories -->
